@@ -1,0 +1,19 @@
+{
+  "name": "git-to-do-list-project",
+  "version": "1.0.0",
+  "description": "GIT-to-do-list-project",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": "index.js",
+  "author": "Ahmed Raza",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^9.2.20"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
